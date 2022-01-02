@@ -19,7 +19,7 @@ This is the backend of an e-commerce application with fully configured Express.j
  - Create the Schema using MySql Shell.
  - Seed the database using the command - npm run seed.
  - Run the application using the command- npm run start and test the results in Insomnia Core.
- - Check out this video for more details.
+ - Check out this [video](https://vimeo.com/661671901) for more details.
 
 ## Contribution
    Submit a Pull Request to collaborate!
